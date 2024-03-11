@@ -1,6 +1,6 @@
-# http"//tea.xyz/what-is-this-file
+# https://tea.xyz/what-is-this-file
 ---
 version: 1.0.0
 codeOwners:
-- ''
-quorun: 1
+  - '0x1d9eCdc9D9C2D3aA10D7c919f1D2F685a786758c'
+quorum: 1
